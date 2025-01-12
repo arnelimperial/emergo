@@ -1,4 +1,5 @@
 # emergo
+Boilerplate for REST API project in SB
 
 ```bash
 # pull postgres image and run the container
